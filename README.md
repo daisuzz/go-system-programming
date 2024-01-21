@@ -1,1 +1,1 @@
-[https://www.lambdanote.com/products/go-2](Goならわかるシステムプログラミング 第2版)の写経
+[Goならわかるシステムプログラミング 第2版](https://www.lambdanote.com/products/go-2)の写経コード
